@@ -29,7 +29,7 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)))
     */
         
-    let score = (Math.ceil(((302 - (rank * 2)) / 20))*20) *
+    let score = (Math.ceil(((302 - (rank * 2)) / 10))*10) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);

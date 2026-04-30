@@ -9,15 +9,13 @@
     "records": [
         {
             "user": "Helvetica",
-            "link": "www.youtube.com/watch?v=ztMgeL1VwyU",
-            "percent": 100,
-            "hz": 60
+            "link": "https://www.youtube.com/watch?v=ztMgeL1VwyU",
+            "percent": 100
         },
         {
             "user": "JaNkA",
-            "link": "www.youtube.com/watch?v=xj04tUy_v1c",
-            "percent": 100,
-            "hz": 60
+            "link": "https://www.youtube.com/watch?v=xj04tUy_v1c",
+            "percent": 100
         }
     ]
 }

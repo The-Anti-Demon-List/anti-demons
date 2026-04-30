@@ -7,5 +7,55 @@
     "verification": "https://www.youtube.com/watch?v=0rTB0hWlpnA",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "JaNKA",
+            "link": "https://www.youtube.com/watch?v=2NXq3OqOhbo",
+            "percent": 100
+        },
+        {
+            "user": "Tricks33",
+            "link": "https://www.youtube.com/watch?v=oxu-XQ2L8c4",
+            "percent": 100
+        },
+        {
+            "user": "TheJaco9",
+            "link": "https://www.youtube.com/watch?v=zHYMVmf1nE0",
+            "percent": 100
+        },
+        {
+            "user": "Steekmen",
+            "link": "https://www.youtube.com/watch?v=oCxQY2DDgPE",
+            "percent": 100
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "https://www.youtube.com/watch?v=ejZ_l9T7OqI",
+            "percent": 100
+        },
+        {
+            "user": "Smiffy777",
+            "link": "https://www.youtube.com/watch?v=p7R4LYv6w1Y",
+            "percent": 100
+        },
+        {
+            "user": "exerity",
+            "link": "https://www.youtube.com/watch?v=8GiVgKA-UPU",
+            "percent": 100
+        },
+        {
+            "user": "exerity",
+            "link": "https://www.youtube.com/watch?v=_wFf2OzpsBk",
+            "percent": 100
+        },
+        {
+            "user": "Titan Complex",
+            "link": "https://www.youtube.com/watch?v=p82Bdcty7K8",
+            "percent": 100
+        },
+        {
+            "user": "Sunix",
+            "link": "https://www.youtube.com/watch?v=CyBdLacg7qM?t=285",
+            "percent": 100
+        }
     ]
 }

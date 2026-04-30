@@ -7,5 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=5buF6zocHxg",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Helvetica",
+            "link": "www.youtube.com/watch?v=ztMgeL1VwyU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JaNkA",
+            "link": "www.youtube.com/watch?v=xj04tUy_v1c",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

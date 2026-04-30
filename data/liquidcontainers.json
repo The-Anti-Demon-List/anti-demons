@@ -7,5 +7,55 @@
     "verification": "https://www.youtube.com/watch?v=vWwaptCIbQI",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "ChiefWoof",
+            "link": "https://www.youtube.com/watch?v=n67nMuJEDQs",
+            "percent": 100
+        },
+        {
+            "user": "TheJaco9",
+            "link": "https://www.youtube.com/watch?v=nblwSZcfqLM",
+            "percent": 100
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "https://www.youtube.com/watch?v=ZnNjoQBhGXA",
+            "percent": 100
+        },
+        {
+            "user": "Steekmen",
+            "link": "https://www.youtube.com/watch?v=jM40ljpYLFk",
+            "percent": 100
+        },
+        {
+            "user": "JaNkA",
+            "link": "https://www.youtube.com/watch?v=ADjyHt3RZIA",
+            "percent": 100
+        },
+        {
+            "user": "Cyclo",
+            "link": "https://www.youtube.com/watch?v=mfFOWFPsiTo&t=2s",
+            "percent": 100
+        },
+        {
+            "user": "Smiffy777",
+            "link": "https://www.youtube.com/watch?v=GKeeSERYmLI",
+            "percent": 100
+        },
+        {
+            "user": "DiLeMa",
+            "link": "https://www.youtube.com/watch?v=ipU1j9D8HIQ?t=1944",
+            "percent": 100
+        },
+        {
+            "user": "Abrubi",
+            "link": "https://www.youtube.com/watch?v=6UqIlh_UfPc",
+            "percent": 100
+        },
+        {
+            "user": "Floofle",
+            "link": "https://www.youtube.com/watch?v=OmZCuKKAJw",
+            "percent": 100
+        }
     ]
 }
